@@ -1,0 +1,34 @@
+
+Build directories
+
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+Visual Studio
+
+.vcxproj
+*.sln
+*.user
+*.suo
+*.ipch/
+*.pch
+
+Binaries
+
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+
+Generated files
+
+externals/glfw/build/
+
+Misc
+
+.DS_Store
